@@ -1,2 +1,0 @@
-"sample","n_cells_before","n_cells_after","n_removed","pct_removed","median_nCount_RNA_after","median_nFeature_RNA_after","median_percent_mt_after","median_nCount_ATAC_after","median_nFeature_ATAC_after","median_nucleosome_signal_after","median_TSS_enrichment_after"
-"CS7",3030,2705,325,10.73,4227,1996,0.264900662251656,1441,743,0.536231884057971,3.74292374292373

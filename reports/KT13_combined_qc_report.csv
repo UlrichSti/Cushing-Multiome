@@ -1,2 +1,0 @@
-"sample","n_cells_before","n_cells_after","n_removed","pct_removed","median_nCount_RNA_after","median_nFeature_RNA_after","median_percent_mt_after","median_nCount_ATAC_after","median_nFeature_ATAC_after","median_nucleosome_signal_after","median_TSS_enrichment_after"
-"KT13",1314,754,560,42.62,2052,1212,1.12961349596072,180,97.5,0.478260869565217,2.94105894105894
